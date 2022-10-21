@@ -1,0 +1,44 @@
+.navbar-home {
+  background-color: none;
+  height: 11rem;
+  border-radius: 0px;
+  border: none;
+  margin-bottom: 0px;
+}
+
+.navbar-default .navbar-nav > li > a {
+  padding: 4rem 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+}
+
+.flags {
+  margin-top: 3rem;
+}
+
+.about {
+  margin-top: 3rem;
+}
+
+.carousel-content {
+  height: 75vh;
+}
+.plans {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+.footer {
+  background-color: #001e5f;
+}
+
+.location h4 {
+  color: #a3570f;
+}
+
+.sub-heading {
+  color: #b0c12a !important;
+}
+
+.location p {
+  color: white;
+}
